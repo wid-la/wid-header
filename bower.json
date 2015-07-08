@@ -1,0 +1,37 @@
+{
+  "name": "wid-header",
+  "version": "1.0.0",
+  "authors": [
+    "Anonymous <anonymous@example.com>"
+  ],
+  "description": "This element is used to organize other elements to shape a header.",
+  "keywords": [
+    "web-component",
+    "polymer",
+    "seed"
+  ],
+  "main": "wid-header.html",
+  "license": "http://polymer.github.io/LICENSE.txt",
+  "homepage": "https://github.com/<USERNAME>/seed-element/",
+  "ignore": [
+    "/.*",
+    "/test/",
+    "/demo/"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.0.0",
+    "iron-media-query": "PolymerElements/iron-media-query#~1.0.2",
+    "iron-icon": "PolymerElements/iron-icon#~1.0.2",
+    "paper-toolbar": "PolymerElements/paper-toolbar#~1.0.2",
+    "paper-icon-button": "PolymerElements/paper-icon-button#~1.0.2",
+    "paper-styles": "PolymerElements/paper-styles#~1.0.7",
+    "iron-image": "PolymerElements/iron-image#~1.0.2",
+    "iron-flex-layout": "PolymerElements/iron-flex-layout#~1.0.2"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
+    "web-component-tester": "*",
+    "iron-test-helpers": "PolymerElements/iron-test-helpers#~1.0.1",
+    "test-fixture": "PolymerElements/test-fixture#~1.0.0"
+  }
+}
