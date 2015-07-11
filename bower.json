@@ -2,17 +2,19 @@
   "name": "wid-header",
   "version": "1.0.0",
   "authors": [
-    "Anonymous <anonymous@example.com>"
+    "Thomas Hourlier <hourliert@gmail.com>"
   ],
   "description": "This element is used to organize other elements to shape a header.",
   "keywords": [
     "web-component",
+    "web-components",
     "polymer",
-    "seed"
+    "header",
+    "container"
   ],
   "main": "wid-header.html",
-  "license": "http://polymer.github.io/LICENSE.txt",
-  "homepage": "https://github.com/<USERNAME>/seed-element/",
+  "license": "MIT",
+  "homepage": "https://github.com/wid-la/wid-header",
   "ignore": [
     "/.*",
     "/test/",
